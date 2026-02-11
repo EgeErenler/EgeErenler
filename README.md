@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ege Erenler</h1>
 <h3 align="center">A passionate Software Engineer from Istanbul</h3>
 
-- 🌱 I’m currently learning **Flutter and Javascript**
+- 🌱 I’m currently learning **Python and Data Visualization**
 
 - 📫 How to reach me **salih2000ege@gmail.com**
 
