@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ege Erenler</h1>
 <h3 align="center">A passionate Software Engineer and Data Scientist from London</h3>
 
-- 🌱 I’m currently learning **Python and Data Visualization**
+- 🌱 I’m currently Developer of **Python and Data Visualization**
 
 - 📫 How to reach me **salih2000ege@gmail.com**
 
