@@ -1,7 +1,7 @@
 ![MasterHead](https://www.alura.com.br/artigos/assets/o-que-e-front-end-e-back-end/o-que-e-front-end-back-end.jpg
 )
 <h1 align="center">Hi 👋, I'm Ege Erenler</h1>
-<h3 align="center">A passionate Software Engineer from Istanbul</h3>
+<h3 align="center">A passionate Software Engineer and Data Scientist from London</h3>
 
 - 🌱 I’m currently learning **Python and Data Visualization**
 
