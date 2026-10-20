@@ -2,8 +2,11 @@
 )
 <h1 align="center">Hi 👋, I'm Ege Erenler</h1>
 <h3 align="center">A passionate Software Engineer and Data Scientist from London</h3>
+<p align="center"><a href="https://egeerenler.com"><b>🌐 egeerenler.com</b></a> · Portfolio, projects and CV</p>
 
 - 🌱 I’m currently Developer of **Python and Data Visualization**
+
+- 🌐 Portfolio: **[egeerenler.com](https://egeerenler.com)**
 
 - 📫 How to reach me **salih2000ege@gmail.com**
 
