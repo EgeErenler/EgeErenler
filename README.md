@@ -1,19 +1,31 @@
-![MasterHead](https://www.alura.com.br/artigos/assets/o-que-e-front-end-e-back-end/o-que-e-front-end-back-end.jpg
-)
-<h1 align="center">Hi 👋, I'm Ege Erenler</h1>
-<h3 align="center">A passionate Software Engineer and Data Scientist from London</h3>
-<p align="center"><a href="https://egeerenler.com"><b>🌐 egeerenler.com</b></a> · Portfolio, projects and CV</p>
+<h1>Hi, I'm Ege Erenler</h1>
 
-- 🌱 I’m currently Developer of **Python and Data Visualization**
+<p>Software engineer and data scientist in London. I build data pipelines, analytics and data products, from raw open data to a live website.</p>
 
-- 🌐 Portfolio: **[egeerenler.com](https://egeerenler.com)**
-
-- 📫 How to reach me **salih2000ege@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ege-erenler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ege Erenler on LinkedIn" height="30" width="40" /></a>
+<p>
+<a href="https://egeerenler.com"><b>egeerenler.com</b></a> ·
+<a href="https://www.linkedin.com/in/ege-erenler">LinkedIn</a> ·
+<a href="mailto:salih2000ege@gmail.com">salih2000ege@gmail.com</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Featured projects
+
+| Project | What it does | Built with | Links |
+|---|---|---|---|
+| **London Property Finder** | Ranks about 38,000 London streets by budget and priorities: value today, rental yield, growth, crime, schools, stations and shops. Seven open data sources, rebuilt every day. | Python, DuckDB, geospatial, JavaScript, Leaflet, GitHub Actions | [Live](https://egeerenler.com/london-property-finder/) · [Code](https://github.com/EgeErenler/london-property-finder) |
+| **London Pulse** | A data pipeline that takes a snapshot of Tube status, Santander Cycles, weather and air quality every 15 minutes, models it with dbt and publishes a dashboard. | Python, dbt, DuckDB, Parquet, GitHub Actions | [Live](https://egeerenler.com/london-pulse/) · [Code](https://github.com/EgeErenler/london-pulse) |
+| **UK Housing Market Analytics** | A tested SQL analysis of 7 million property sales in England and Wales since 2018, with a written report and a dashboard. | SQL, DuckDB, Python, GitHub Actions | [Live](https://egeerenler.com/uk-housing-analytics/) · [Code](https://github.com/EgeErenler/uk-housing-analytics) · [Report](https://github.com/EgeErenler/uk-housing-analytics/blob/main/REPORT.md) |
+| **MediPulse AI** | A health triage assistant that rates how urgent symptoms are and suggests the next step. | Python, Streamlit, Groq API | [Live](https://medipulse-ai.streamlit.app) · [Code](https://github.com/EgeErenler/DSB705) |
+
+## What I work with
+
+- **Languages:** Python, SQL, JavaScript, Java
+- **Data:** DuckDB, dbt, pandas, Parquet, MySQL, data modelling and testing
+- **Analysis and ML:** scikit-learn, statistics, data visualisation (ECharts, matplotlib)
+- **Engineering:** GitHub Actions, CI, automated tests, AWS and Azure, React Native
+
+## Background
+
+- MSc Data Science in Business, Regent's University London
+- Junior Software Engineer at Orion Innovation (Python, SQL, AWS, Azure)
+- BSc Software Engineering, Bahçeşehir University, Istanbul
